@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #3AAFA9;
+}
+.welcome{
+  text-align: center;
+  font-size:  100px;
+}
+.button{
+  background-color: #05386B;
+  color: white;
+  padding: 10px 15px;
+  margin: 80px 95px;
+  border-radius: 5px;
+  
+}
