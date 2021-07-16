@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaTimes,FaRegDotCircle,FaPen, FaRegCircle} from "react-icons/fa";
+import { FaTimes,FaPen, FaRegCircle} from "react-icons/fa";
 import '../index.css'
 
 const Icon = ({choice})=>{
